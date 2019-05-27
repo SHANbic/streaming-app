@@ -8,6 +8,8 @@
 # testing
 /coverage
 
+#files
+modal.html
 # production
 /build
 
